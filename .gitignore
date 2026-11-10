@@ -1,0 +1,6 @@
+# Private copies of the tracker. Never commit a real listing.
+my-tracker.csv
+my-tracker.md
+*-private.csv
+*-private.md
+.firecrawl/
