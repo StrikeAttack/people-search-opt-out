@@ -1,0 +1,13 @@
+broker,opt_out_url,listing_label,submitted_on,method,expected_clear_by,rechecked_on,status,notes
+TruePeopleSearch,https://www.truepeoplesearch.com/removal,Jane Q. Doe — placeholder only,2026-01-15,email link and captcha,2026-01-18,2026-02-15,removed,Example row. Not a real person. Do not commit real rows.
+FastPeopleSearch,https://www.fastpeoplesearch.com/optout,Jane Q. Doe — placeholder only,2026-01-15,email link and captcha,2026-01-18,2026-02-15,removed,Example row. Use a home connection if Cloudflare blocks the form.
+USPhonebook,https://www.usphonebook.com/removal,Jane Q. Doe — placeholder only,2026-01-15,email link and captcha,2026-01-18,2026-02-15,removed,Example row. Spare email jane@example.com is a placeholder.
+ThatsThem,https://thatsthem.com/optout,Jane Q. Doe — placeholder only,2026-01-15,web form,2026-01-18,2026-02-15,not-checked,Example row. Confirm the live form before you submit.
+Nuwber,https://nuwber.com/removal/link,Jane Q. Doe — placeholder only,2026-01-15,listing URL and email link,2026-01-17,2026-02-15,not-checked,Example row. Use a home connection. Do not paste a real profile id here.
+Radaris,https://radaris.com/,Jane Q. Doe — placeholder only,,,2026-02-15,not-found,Example row. As of 2026-11-10 the domain showed a court-order notice and no form.
+Spokeo,https://www.spokeo.com/optout,Jane Q. Doe — placeholder only,2026-01-15,listing URL and email link,2026-01-17,2026-02-15,removed,Example row. One URL per request. ThatsThem is a separate form.
+Whitepages,https://www.whitepages.com/suppression-requests,Jane Q. Doe — placeholder only,2026-01-15,listing URL and phone check,2026-01-30,2026-02-15,submitted,Example row. Placeholder phone (555) 010-0000. Do not use your everyday number if you can avoid it.
+BeenVerified,https://www.beenverified.com/svc/optout/search/optouts,Jane Q. Doe — placeholder only,2026-01-15,email link,2026-01-16,2026-02-15,not-checked,Example row. Confirm the form loaded and is the people-search opt-out.
+PeopleFinders,https://www.peoplefinders.com/opt-out,Jane Q. Doe — placeholder only,,,,not-checked,Example row. Opt-out URL was unconfirmed on 2026-11-10. Open it before you type.
+PeopleConnect,https://suppression.peopleconnect.us/,Jane Q. Doe — placeholder only,2026-01-15,email link,2026-01-20,2026-02-15,not-checked,Example row. Afterward search Intelius TruthFinder Instant Checkmate and USSearch.
+MyLife,https://www.mylife.com/privacyrequest,Jane Q. Doe — placeholder only,,,,not-checked,Example row. Placeholder address 123 Example St Anytown ST 00000. Do not commit a real address.
